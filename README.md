@@ -7,5 +7,5 @@
 
 
 希望大家购买正版，建议阅读英文原版：https://leanpub.com/kotlin-for-android-developers
-
+kotlin官网中文站：https://www.kotlincn.net/ 
 
